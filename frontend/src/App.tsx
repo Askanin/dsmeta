@@ -13,8 +13,6 @@ function App() {
           </div>
         </section>
       </main>
-      <h1>Olá Mundo!</h1>
-      <NotificationButton />
     </>
   );
 }
